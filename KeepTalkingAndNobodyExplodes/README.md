@@ -5,6 +5,7 @@ Regras:
 
 
 3 fios:	
+	
 	Se não houver fios vermelhos, corte o segundo fio.
 	
 	Caso contrário, se o último fio for branco, corte o último fio.
@@ -15,6 +16,7 @@ Regras:
 
 
 4 fios:
+	
 	Se houver mais de um fio vermelho e o último dígito do número de série for ímpar, corte o último fio vermelho.
 	
 	Caso contrário, se o último fio for amarelo e não houver fios vermelhos, corte o primeiro fio.
